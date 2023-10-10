@@ -1,0 +1,5 @@
+﻿  yoo.cpp
+C:\Users\hp\source\repos\yoo\yoo.cpp(11,17): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\hp\source\repos\yoo\yoo.cpp(11,17): warning C4129: 'O': unrecognized character escape sequence
+C:\Users\hp\source\repos\yoo\yoo.cpp(11,17): warning C4129: 'D': unrecognized character escape sequence
+  yoo.vcxproj -> C:\Users\hp\source\repos\yoo\Debug\yoo.exe
